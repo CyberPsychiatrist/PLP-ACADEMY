@@ -1,4 +1,3 @@
-
 # Step 1: Create an empty list
 my_list = []
 print("After creating empty list:", my_list)
