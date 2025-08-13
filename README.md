@@ -74,7 +74,7 @@ if __name__ == '__main__':
 ## 📞 Contact  
 ---
 
-- Email: [your.email@example.com](mailto:phr3edevelopers@gmail.com)  
+- Email: Phr3edevelopers](mailto:phr3edevelopers@gmail.com)  
 - Issues: [GitHub Issues](https://github.com/CyberPsychiatrist/PLP-ACADEMY/issues)  
 
 ---
